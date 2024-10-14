@@ -1,1 +1,1 @@
-console.log(getOtosLotteryNumbers())
+lottery
